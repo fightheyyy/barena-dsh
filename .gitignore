@@ -1,0 +1,7 @@
+node_modules/
+lib/
+*.tgz
+.tmp/
+.playwright-cli/
+output/
+.DS_Store

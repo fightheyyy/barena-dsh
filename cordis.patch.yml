@@ -1,0 +1,8 @@
+# Barena for DSH: Host evaluation service plus an auto-discovered Web Client half.
+
+- insert:
+    - id: barena-dsh-eval
+      name: '@barena/dsh-eval'
+      config:
+        maxAttempts: 5
+        maxTimeoutMs: 600000
